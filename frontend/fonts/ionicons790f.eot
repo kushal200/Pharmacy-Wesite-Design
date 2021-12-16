@@ -1,0 +1,1426 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="csrf-token" content="">
+    <title>
+                        404 Page Not Found
+            </title>
+        
+        <meta name="description"
+              content="Buy online medicine in Nepal Kathmandu Lalitpur Bhaktapur Pokhara & other major cities. Get cosmetics and medicine from 24seven for safe, fast & free delivery.">
+        <meta property="og:title"
+              content="    404 Page Not Found
+ "/>
+        <meta property="og:description"
+              content="2Buy online medicine in Nepal Kathmandu Lalitpur Bhaktapur Pokhara & other major cities. Get cosmetics and medicine from 24seven for safe, fast & free delivery."/>
+        <meta property="og:image" content="https://24seven.com.np/frontend/images/logo.png"/>
+        <meta name="twitter:title"
+              content="    404 Page Not Found
+ "/>
+        <meta name="twitter:description"
+              content="2Buy online medicine in Nepal Kathmandu Lalitpur Bhaktapur Pokhara & other major cities. Get cosmetics and medicine from 24seven for safe, fast & free delivery."/>
+        <meta name="twitter:image" content="https://24seven.com.np/frontend/images/logo.png"/>
+
+    
+    <meta name="author" content="24 Seven">
+    <link rel="canonical" href="https://24seven.com.np/frontend/fonts/ionicons.eot">
+
+    <link rel="icon" type="image/png" href="https://24seven.com.np/frontend/images/logo.png">
+    <link rel="stylesheet" href="https://24seven.com.np/frontend/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://24seven.com.np/frontend/css/jquery-ui.min.css">
+    <link href="https://24seven.com.np/frontend/fontawesome/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://24seven.com.np/frontend/css/animate.css">
+    <link rel="stylesheet" href="https://24seven.com.np/frontend/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://24seven.com.np/frontend/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://24seven.com.np/frontend/css/styles.css?v=1.3.1">
+    <link rel="stylesheet" href="https://24seven.com.np/frontend/css/dropzone.css">
+    <link href="https://fonts.googleapis.com/css?family=Rajdhani:600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://24seven.com.np/frontend/css/slick/slick-theme.css"/>
+    <link rel="stylesheet" type="text/css" href="https://24seven.com.np/frontend/css/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://24seven.com.np/css/prescriptiondropzone.css"/>
+        <style>
+        .content{
+            position: relative;
+            bottom: 600px;
+            left: 400px;
+        }
+        @media  only screen and (max-width: 959px) {
+            .content{
+                position: relative;
+                bottom: 200px;
+                left: 150px;
+            }
+            .content h1{
+                font-size: 1.5em;
+            }
+
+            .content h4{
+                font-size: 1em;
+            }
+        }
+    </style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138703140-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+
+            gtag('config', 'UA-138703140-1');
+        </script>
+
+    </head>
+<body>
+
+<header>
+    <div class="container-fluid top-header">
+        
+        <div class="row">
+            <div class="col-lg-1 col-xs-12">
+                <div class="logo-div">
+                    <a href="https://24seven.com.np"><img src="https://24seven.com.np/frontend/images/logo.png"
+                                                         alt="24-7 main header logo"></a>
+                </div>
+            </div>
+            <div class="col-lg-11 col-xs-12">
+                <div class="row">
+                    <div class="col-lg-8 col-sm-7 col-xs-12">
+                        <div class="row">
+                            <div class="col-lg-10 col-md-8 col-12">
+                                                                    <h2 class="homepage-h1">Online Pharmacy in Nepal - Online Medicine Delivery</h2>
+                                                                
+                            </div>
+                            <div class="col-lg-1 col-md-2 col-6">
+
+                                <div class="pb-1 pt-1 text-center">
+
+                                    <a href="https://play.google.com/store/apps/details?id=com.clientapp.twentyfourseven">
+
+                                        <img src="https://24seven.com.np/images/playstore.webp" alt="" class="img-fluid app-link-img">
+
+                                        <div class="d-block d-sm-none">
+                                            Download on Google Playstore
+                                        </div>
+                                    </a>
+
+                                </div>
+
+                            </div>
+                            <div class="col-lg-1 col-md-2 col-6">
+                                <div class="pb-1 pt-1 text-center">
+                                    <a href="https://apps.apple.com/np/app/24seven-health-and-beauty/id1502533550">
+                                        <img src="https://24seven.com.np/images/appstore.webp" alt="" class="img-fluid app-link-img">
+                                        <div class="d-block d-sm-none">
+                                            Download on App Store
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="col-lg-3 col-sm-4 col-xs-6">
+                        <div class="login-signup-div">
+                                                            <a href="https://24seven.com.np/login" class="transparent_btn_green">Login</a>
+                                <a href="https://24seven.com.np/register" class="transparent_btn_green">Register</a>
+                                                    </div>
+                    </div>
+                    <div class="col-lg-1 col-sm-1 col-xs-6">
+                        <div class="cart-div">
+                            <a href="https://24seven.com.np/cart">
+                                 <span class="fa-stack fa-1x has-badge cart-count" data-count="0">
+                                  <i class="fa fa-circle fa-stack-2x"></i>
+                                  <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row navigation-background">
+                    <div class="col-lg-12 col-xs-12 nav-back-col">
+                        <nav class="navbar navbar-expand-sm navbar-dark top-header-nav">
+                            <div class="col-lg-4 col-sm-12 col-xs-12">
+                                <form class="navbar-form navbar-left search-form" action="https://24seven.com.np/product-search"
+                                      method="get" autocomplete="off">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Search Medicine"
+                                               onkeyup="showResult()" name="product_details" id="main-search"
+                                               autocomplete="off">
+                                        <div class="search-box" id="searchBox" style="display: none;">
+                                            <ul class="search-box-ul" id="livesearch">
+
+                                            </ul>
+                                        </div>
+                                        <div class="input-group-btn">
+                                            <button class="btn btn-default top-header-search-btn" type="submit">
+                                                <i class="fas fa-search"></i>
+                                            </button>
+
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="col-lg-6 d-none d-sm-none d-md-none d-lg-block">
+                                <ul class="navbar-nav top-header-nav-ul">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="https://24seven.com.np/medicine"> <img
+                                                    src="https://24seven.com.np/frontend/images/icons/medicine-pill.png"
+                                                    alt="Buy Medicine Online In Nepal">
+                                            Medicines</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="https://24seven.com.np/cosmetics"> <img
+                                                    src="https://24seven.com.np/frontend/images/icons/cosmetic2.png"
+                                                    alt="Buy Cosmetic Products Online In Nepal">Cosmetics</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="https://24seven.com.np/appointment-request"> <img
+                                                    src="https://24seven.com.np/frontend/images/icons/doctor.png"
+                                                    alt="Ask Doctor">Online Doctor Consultation</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="https://24seven.com.np/articles"> <img
+                                                    src="https://24seven.com.np/frontend/images/icons/article.png" alt="Articles">Articles</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-2 d-none d-sm-none d-md-none d-lg-block">
+                                <div class="right-quick-message">
+                                    <button type="button" class="transparent_btn_white" data-toggle="modal"
+                                            data-target="#presciption_upload">
+                                        Upload Prescription
+                                    </button>
+
+                                </div>
+                            </div>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- navigation row starts  -->
+        <div class="row">
+            <div class="menu-container">
+                <div class="col-lg-12">
+                    <div class="nav-menu-top">
+                        <ul class="nav-menu-top-ul" id="myTopnav">
+                            <div class="category-name d-inline-block d-sm-none" style="padding: 5px 5px;">
+                                <a href="https://24seven.com.np/appointment-request">
+                                    <img src="https://24seven.com.np/images/doctor.jpg" class="img-fluid" style="height: 30px" alt="Doctor Consultation">
+                                    <span>Online Doctor Consultation</span>
+                                </a>
+                            </div>
+                            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                                <i class="fa fa-bars"></i>
+                            </a>
+
+                                                            <li class="nav-menu-category drop-down-show">
+                                    <div class="category-name">
+                                        <a href="https://24seven.com.np/category/suppliments">
+                                            <span>Nutrition &amp; Supplements</span>
+                                            <i class="fas fa-caret-down"></i>
+                                        </a>
+                                    </div>
+                                                                            <div class="sub-category">
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/gym-suppliments">
+                                                            Gym Supplements &amp; Nutrition
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/food-supplements-nutrition">
+                                                            Food Supplements &amp; Nutrition
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/calcium-supplements-nutrition">
+                                                            Calcium Supplements &amp; Nutrition
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                    </div>
+                                                                    </li>
+                                                            <li class="nav-menu-category drop-down-show">
+                                    <div class="category-name">
+                                        <a href="https://24seven.com.np/category/baby-products">
+                                            <span>Baby Products</span>
+                                            <i class="fas fa-caret-down"></i>
+                                        </a>
+                                    </div>
+                                                                            <div class="sub-category">
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/child-nutritions">
+                                                            Child Nutritions
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/bath-essentials">
+                                                            Baby Bath Essentials
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/baby-diapers-wipes">
+                                                            Baby Diapers &amp; Wipes
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/skin-care">
+                                                            Baby Skin Care
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/baby-birthday-gift-pack">
+                                                            Baby Birthday Gift Pack
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                    </div>
+                                                                    </li>
+                                                            <li class="nav-menu-category drop-down-show">
+                                    <div class="category-name">
+                                        <a href="https://24seven.com.np/category/medicine">
+                                            <span>Medicine</span>
+                                            <i class="fas fa-caret-down"></i>
+                                        </a>
+                                    </div>
+                                                                            <div class="sub-category">
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/vitamins-supplements">
+                                                            Vitamins &amp; Supplements
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/sexual-health">
+                                                            Sexual Health
+                                                        </a>
+                                                    </li>
+
+                                                                                                                                                                        <li class="child-list-sub-category">
+                                                                <a href="https://24seven.com.np/category/condoms">
+                                                                    Condoms
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li class="child-list-sub-category">
+                                                                <a href="https://24seven.com.np/category/intimate-wash">
+                                                                    Intimate Hygiene
+                                                                </a>
+                                                            </li>
+                                                                                                            
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/antihypertensive">
+                                                            Antihypertensive
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/cardiac">
+                                                            Cardiac
+                                                        </a>
+                                                    </li>
+
+                                                                                                                                                                        <li class="child-list-sub-category">
+                                                                <a href="https://24seven.com.np/category/anti-rheumatic">
+                                                                    Anti rheumatic
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li class="child-list-sub-category">
+                                                                <a href="https://24seven.com.np/category/anti-arrhythmic">
+                                                                    Anti-arrhythmic
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li class="child-list-sub-category">
+                                                                <a href="https://24seven.com.np/category/anti-anginal">
+                                                                    Anti anginal
+                                                                </a>
+                                                            </li>
+                                                                                                            
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/hypoglycemic">
+                                                            Diabetes
+                                                        </a>
+                                                    </li>
+
+                                                                                                                                                                        <li class="child-list-sub-category">
+                                                                <a href="https://24seven.com.np/category/insulin-products">
+                                                                    Insulin products
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li class="child-list-sub-category">
+                                                                <a href="https://24seven.com.np/category/oral-hypo-glycemic">
+                                                                    oral hypo-glycemic
+                                                                </a>
+                                                            </li>
+                                                                                                            
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/cough-and-cold">
+                                                            Cough and cold
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/enzymes">
+                                                            Enzymes
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/skin-products">
+                                                            Skin products
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/respiratory-drugs">
+                                                            Respiratory health
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/gastrointestinal-drugs">
+                                                            Gastrointestinal Drugs
+                                                        </a>
+                                                    </li>
+
+                                                                                                                                                                        <li class="child-list-sub-category">
+                                                                <a href="https://24seven.com.np/category/ppis">
+                                                                    PPIs
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li class="child-list-sub-category">
+                                                                <a href="https://24seven.com.np/category/prokinetic-agent">
+                                                                    Prokinetic agent
+                                                                </a>
+                                                            </li>
+                                                                                                            
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/peripheral-m-nervous-system-pns-drugs">
+                                                            Peripheral Nervous System (PNS) Drugs
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                    </div>
+                                                                    </li>
+                                                            <li class="nav-menu-category drop-down-show">
+                                    <div class="category-name">
+                                        <a href="https://24seven.com.np/category/beauty-products">
+                                            <span>Beauty &amp; Cosmetic Products</span>
+                                            <i class="fas fa-caret-down"></i>
+                                        </a>
+                                    </div>
+                                                                            <div class="sub-category">
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/men-s-grooming">
+                                                            Men&#039;s Grooming
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/revlon">
+                                                            Revlon
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/garnier">
+                                                            Garnier
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/himalaya">
+                                                            Himalaya
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/streax">
+                                                            Streax
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/nivea">
+                                                            Nivea
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/maybelline">
+                                                            Maybelline
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/colorossence">
+                                                            coloressence
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/nature-s">
+                                                            Nature&#039;s
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/asta-berry">
+                                                            Asta Berry
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/pamacare">
+                                                            Pamacare
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/engage">
+                                                            Engage
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/joy">
+                                                            Joy
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/fogg">
+                                                            Fogg
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/vasline">
+                                                            Vasline
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/enchanteur">
+                                                            Enchanteur
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/ponds">
+                                                            Ponds
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/shea">
+                                                            Oshea
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/vlcc">
+                                                            VLCC
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/axe">
+                                                            Axe
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/reizvoll">
+                                                            Reizvoll
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/lakme">
+                                                            Lakme
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/lotus">
+                                                            Lotus
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/gatsby">
+                                                            Gatsby
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                    </div>
+                                                                    </li>
+                                                            <li class="nav-menu-category drop-down-show">
+                                    <div class="category-name">
+                                        <a href="https://24seven.com.np/category/medical-equipments">
+                                            <span>Medical Equipments</span>
+                                            <i class="fas fa-caret-down"></i>
+                                        </a>
+                                    </div>
+                                                                            <div class="sub-category">
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/body-belts-support">
+                                                            BODY BELTS &amp; SUPPORT
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/cervical-supports">
+                                                            CERVICAL SUPPORTS
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/fracture-braces">
+                                                            FRACTURE BRACES
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/ankle-supports">
+                                                            ANKLE SUPPORTS
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/finger-splints">
+                                                            FINGER SPLINTS
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/allied-productions">
+                                                            ALLIED PRODUCTIONS
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/knee-braces">
+                                                            KNEE BRACES
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/silicone-products">
+                                                            SILICONE PRODUCTS
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/traction-kit">
+                                                            TRACTION KIT
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/wrist-and-forearm-braces">
+                                                            WRIST AND FOREARM BRACES
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/thermomters">
+                                                            THERMOMETERS
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/puilsmeters">
+                                                            PULSE-OXYMETERS
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                            <ul class="sub-category-ul">
+                                                    <li class="child-list-title">
+                                                        <a href="https://24seven.com.np/category/glucometers">
+                                                            GLUCOMETERS
+                                                        </a>
+                                                    </li>
+
+                                                    
+                                                </ul>
+                                                                                    </div>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- navigation row ends  -->
+    </div>
+</header>
+
+<!-- Modal -->
+<div class="modal fade" id="presciption_upload" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Upload Prescription</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form action="https://24seven.com.np/user/prescription/image-store" method="post"
+                      enctype="multipart/form-data" id="general_prescription">
+                    <input type="hidden" name="_token" value="">                    <div class="row">
+                        <label for="prescription" class="col-md-4">Prescription</label>
+                        <div class="col-md-8 form-group">
+                            <div class="prescription_dropzone" id="general_prescription_images">
+                                <input type="hidden" name="_token" value="">                                <div class="fallback">
+                                    <input name="file" type="file" multiple/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center">OR</div>
+                    <div class="row">
+                        <label for="prescription" class="col-md-4">Text Prescription</label>
+                        <div class="col-md-8 form-group">
+                            <textarea name="medicine_description" class="form-control"
+                                      placeholder="Prescription with description"></textarea>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <label for="contact_no" class="col-md-4">Contact Number</label>
+                        <div class="col-md-8 form-group">
+                            <input type="number" class="form-control" name="contact_no"
+                                   required
+                            >
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <label for="contact_no" class="col-md-4">Location</label>
+                        <div class="col-md-8 form-group">
+                            <input type="text" class="form-control" name="location"
+                                   required
+                            >
+                        </div>
+                    </div>
+                    <div class="text-center" style="padding: 10px;">
+                                                    <p>You need to be registered</p>
+                            <button class="btn btn-primary" disabled>Submit</button>
+                                            </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="container">
+        <div>
+            <img src="https://24seven.com.np/medicine404.png" alt="Page Not Found !" class="img-fluid">
+            <div class="content">
+                <h1>Online Pharmacy in Nepal</h1>
+                <h4>404 Error !!! Page Not Found</h4>
+                <a href="https://24seven.com.np" class="btn btn-primary">Go To Home</a>
+            </div>
+        </div>
+    </div>
+
+
+<div class="modal fade" id="errorModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-notify modal-info" role="document">
+        <!--Content-->
+        <div class="modal-content text-center">
+            <!--Header-->
+            <div class="modal-header d-flex justify-content-center">
+                <p class="heading">Error Message</p>
+            </div>
+
+            <div class="modal-body">
+                <i class="fas fa-exclamation-triangle fa-4x animated rotateIn mb-4"></i>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="cartquantity" id="cartquantity"
+     aria-hidden="true">
+    <div class="modal-dialog modal-sm modal-dialog-centered">
+        <div class="modal-content">
+            <div class="cart-quantity-container">
+                <h4>Select Quantity</h4>
+                <p id="cart-product-name"></p>
+                <input type="hidden" id="cart-product-id">
+                <input type="hidden" id="reload-page" value="0">
+
+                <div class="cart-quantity-box">
+                    <button type="button" class="btn btn-outline-danger btn-sm deduction">-</button>
+                    <span class="quantity-display">1</span>
+                    <input type="hidden" id="quantity-count" value="1">
+                    <button type="button" class="btn btn-outline-success btn-sm addition">+</button>
+                </div>
+
+                <div class="cart-quantity-button text-right">
+                    <button class="btn btn-outline-secondary" data-dismiss="modal">Cancel</button>
+                    <button class="btn btn-success confirm-cart">Confirm</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Load Facebook SDK for JavaScript -->
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                xfbml: true,
+                version: 'v4.0'
+            });
+        };
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Your customer chat code -->
+    <div class="fb-customerchat"
+         attribution=setup_tool
+         page_id="287612545091303">
+    </div>
+<section class="footer-section">
+    <div class="footer-top-div">
+        <div class="container">
+            <div class="row border-bottom">
+                <div class="col-md-6">
+                    <div class="footer-info-desc1">
+                        <h5>Nepal's Trusted Pharmacy: Purchase Medicines & Drugs Online in Nepal</h5>
+                        <p>
+                            As a startup, the goal of 24seven ePharma is to rise into the industry as the forefront of
+                            web-based pharmacy in Nepal. With our partnerships with various leading pharmaceutical
+                            companies, hospitals, clinics and certified doctors, we are looking at employing around 100
+                            staff within the first year of establishment to cater to the needs of everyone residing in
+                            Nepal.
+                            24seven is set up to grow as the leading pharmaceutical store providing complete medical
+                            products all over Nepal. Our physical store is located at Maharajgunj chowk, Kathmandu. As
+                            the country is going digital and medical products have always become an emergency needs for
+                            the people so, we have come up with the idea of providing health facilities online. We
+                            distribute wide range of pharmaceutical products to cure your disease effectively.
+                        </p>
+                    </div>
+                    <p>Our Payment Partners:</p>
+                    <div class="row">
+                        <div class="col-md-3 col-6">
+                            <img src="https://24seven.com.np/frontend/payment/connectIPS.png" alt="Connect IPS Logo"
+                                 class="img-thumbnail paymentlogo">
+                        </div>
+
+                        <div class="col-md-3 col-6">
+                            <a href="https://khalti.com/app" target="_blank">
+                                <img src="https://24seven.com.np/frontend/payment/khalti-logo.svg" alt="Khalti Logo"
+                                     class="img-thumbnail paymentlogo">
+                            </a>
+                        </div>
+
+                        
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="footer-info-desc2">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <div class="social-footer">
+                                    <h5 class="footer-info-desc-title">Connect With Us</h5>
+                                    <ul>
+                                        <li><a href="https://www.facebook.com/24sevenHnB/"><i
+                                                        class="fab fa-facebook-f fab-lg"></i></a></li>
+                                        <li><a href="https://www.instagram.com/24sevenhealthandbeauty/"><i
+                                                        class="fab fa-instagram fab-lg"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-7">
+                                <h5 class="footer-info-desc-title">Subscribe Our Newsletter</h5>
+                                <div class="form-group">
+                                    <div class="input-group subscribe-input">
+                                        <input type="email" id="oneemail" class="form-control newsletter-input"
+                                               placeholder="Enter your email address" autocomplete="off" required/>
+                                        <span id="submite" class="input-group-btn">
+                                                <button class="btn newsletter-btn"><i class="fa fa-envelope"></i>&nbsp;Subscribe</button>
+                                            </span>
+                                        <div>
+                                                <span id="alertmessage" style="background-color: gainsboro;border-radius: 4px;padding: 5px;
+                                                margin-top: 3%;position: absolute;margin-left: 15%; display: none;">
+                                                    Invalid Email
+                                                </span>
+                                        </div>
+                                    </div>
+                                    <div class="subscription-result"
+                                         style="background-color: gray;border-radius: 8px;padding: 1%;display: none;">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 text-center">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <h5 class="footer-info-desc-title app-title">Download App</h5>
+                                    </div>
+                                    <div class="col-12 mb-3">
+                                        <div class="app-img">
+                                            <a href="https://play.google.com/store/apps/details?id=com.clientapp.twentyfourseven"><img
+                                                        src="https://24seven.com.np/frontend/images/android-app-1.webp"
+                                                        class="app-img-1" alt="Download on Google Play Store"></a>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-12 mb-3">
+                                        <div class="app-img ">
+                                            <a href="https://apps.apple.com/np/app/24seven-health-and-beauty/id1502533550"><img
+                                                        src="https://24seven.com.np/frontend/images/apple-app-1.webp"
+                                                        class="app-img-2" alt="Download on App Store"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-2">
+                    <h5 class="footer-top-title">Our Top Brands</h5>
+                    <ul class="footer-top-ul">
+                        <li><a href="https://24seven.com.np/category/skin-products">Skin Products</a></li>
+                        <li><a href="https://24seven.com.np/category/himalaya">Himalaya</a></li>
+                        <li><a href="https://24seven.com.np/category/garnier">Garnier</a></li>
+                        <li><a href="https://24seven.com.np/category/vasline">Vasline</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-2">
+                    <h5 class="footer-top-title">My 24 Seven</h5>
+                    <ul class="footer-top-ul">
+                        <li><a href="https://24seven.com.np/user/dashboard">My Account</a></li>
+                        <li><a href="https://24seven.com.np/how-to-order">How to Order</a></li>
+                        <li><a href="https://24seven.com.np/refer-friend">Refer Friend</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-2">
+                    <h5 class="footer-top-title">Help & Contact</h5>
+                    <ul class="footer-top-ul">
+                        <li><a href="https://24seven.com.np/how-to-order">How To Order</a></li>
+                        <li><a href="#">FAQ's</a></li>
+                        <li><a href="https://24seven.com.np/contact-us">Contact Us</a></li>
+                        <li><a href="https://24seven.com.np/terms-and-conditions">Terms & Conditions</a></li>
+                        <li><a href="https://24seven.com.np/privacy-policy">Legal Policy</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>© <a href="https://nepalentrance.com">2021</a> <a
+                                href="https://24seven.com.np">24seven</a>. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="metro-hospital-contact">
+    <div class="row">
+        <div class="col-4">
+            <div class="hospital-image">
+                <img src="https://24seven.com.np/images/metro.webp" alt="Metro Hospital" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-8">
+            <div class="hospital-contact-details">
+                For Doctor's Consultation Contact: <a href="tel: +977 1 4721515">+977 1 4721515</a>. Metro Kathmandu
+                Hospital
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"
+        integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
+        crossorigin="anonymous" defer></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"
+        integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
+        crossorigin="anonymous" defer></script>
+
+<script src="https://24seven.com.np/frontend/js/jquery-ui.min.js" defer></script>
+<script src="https://24seven.com.np/frontend/js/megamenu.js" defer></script>
+<script src="https://24seven.com.np/frontend/js/dropzone.js"></script>
+<script src="https://24seven.com.np/frontend/js/modernizr-2.8.3.min.js" defer></script>
+<script src="https://24seven.com.np/frontend/js/owl.carousel.min.js" defer></script>
+<script src="https://24seven.com.np/frontend/js/custom.js" defer></script>
+
+
+<script type="text/javascript" defer>
+    $(document).ready(function () {
+        //If your <ul> has the id "glasscase"
+        $('#glasscase').glassCase({'thumbsPosition': 'bottom', 'widthDisplay': 560});
+        $('#metroContact').modal();
+
+    });
+</script>
+<script defer>
+        $('.cart').click(function () {
+        $('#reload-page').val(0);
+        $('#quantity-count').val(1)
+        $('.quantity-display').text(1)
+        $('#cartquantity').modal();
+        let product_name = $(this).data('productname');
+        let id = $(this).val();
+        $('#cart-product-name').text(product_name);
+        $('#cart-product-id').val(id);
+        if ($(this).hasClass('cart-page')) {
+            $('#reload-page').val(1);
+        }
+
+    });
+
+    $('.deduction').click(function () {
+        $this = $(this);
+        let current_qty = parseInt($('#quantity-count').val());
+        if (current_qty > 1) {
+            let new_quantity = current_qty - 1;
+            $this.next().text(new_quantity);
+            $this.next().next().val(new_quantity);
+        }
+    });
+
+    $('.addition').click(function () {
+        $this = $(this);
+        let current_qty = parseInt($('#quantity-count').val());
+        let new_quantity = current_qty + 1;
+        $this.prev().prev().text(new_quantity);
+        $this.prev().val(new_quantity);
+    });
+
+    $('.confirm-cart').click(function () {
+        let product_id = $('#cart-product-id').val();
+        let quantity = $('#quantity-count').val();
+        var token = '';
+        $.ajax({
+            url: 'https://24seven.com.np/cart-item-add' + '/' + product_id,
+            type: 'post',
+            data: {
+                '_token': token,
+                'qty': quantity
+            },
+            success: function (data) {
+                $('.cart-count').attr('data-count', data[2]['count']);
+                if ($('#reload-page').val() == 1) {
+                    window.location.reload();
+                }
+            }
+        });
+        $('#cartquantity').modal('hide');
+
+    });
+
+    $('.remove').click(function () {
+        var id = $(this).val();
+        var token = '';
+        $.ajax({
+            url: 'https://24seven.com.np/cart-item-remove' + '/' + id,
+            type: 'post',
+            data: {
+                '_token': token,
+            },
+            success: function (data) {
+                $('.remove' + data['id']).css('display', 'none');
+                $('.cart' + data['id']).css('display', 'block');
+
+                $('#order_display' + data['id']).remove();
+                $('.cart-count').attr('data-count', data['count']);
+            }
+
+        })
+    });
+
+    function showResult() {
+        var detail = $('#main-search').val();
+        var livesearch = $('#livesearch');
+        var searchBox = $('#searchBox');
+        var product = '';
+        document.getElementById("livesearch").innerHTML = product;
+        $.ajax({
+            url: 'https://24seven.com.np/product-search-json' + '/' + detail,
+            type: 'GET',
+            success: function (data) {
+                // console.log(data);
+                searchBox.css('display', 'block');
+                livesearch.css('border', '1px solid #A5ACB2');
+
+                $.each(data['products'], function (index, value) {
+                    let discount_info = "";
+                    if (value['discount'] != 0 && value['discount'] != null) {
+                        discount_info = '<div class="discount-info">\n' +
+                            '        <span class="single-overline">Rs ' + value['product_price'] + '\n' +
+                            '        </span>\n' +
+                            '          <span>' + value['discount'] + '% Off</span>\n' +
+                            '            </div>';
+                    }
+                    if (value['added_to_cart'] == 0) {
+                        product = product + '   <li>' + '<a href="https://24seven.com.np/product' + '/' + value['slug'] + '"> <div class="row"><div class="col-md-8"><div class="search-span1">' + value['product_name'] + '</div></div>' +
+                            ' <div class="col-md-4"><div class="search-span2 text-right"><span>RS. ' + (value['product_price'] - value['product_price'] * (value['discount'] / 100)).toFixed(2) + '</span></div>' + discount_info + ' </div></div> </a></li>';
+                    } else {
+                        product = product + '   <li>' + '<a href="https://24seven.com.np/product' + '/' + value['slug'] + '"> <div class="row"><div class="col-md-8"><div class="search-span1">' + value['product_name'] + '</div></div>' +
+                            ' <div class="col-md-4"><div class="search-span2 text-right"><span>RS. ' + (value['product_price'] - value['product_price'] * (value['discount'] / 100)).toFixed(2) + '</span></div>' + discount_info + ' </div></div> </a></li>';
+
+                    }
+
+                    // console.log(product);
+                });
+
+                $.each(data['generic'], function (index, value) {
+                    //product = product + '<a href="https://24seven.com.np/product' + '/' + value['slug'] + '"><div>' + value['product_name'] + '</div></a>';
+                    product = product + '   <li>' + '<a href="https://24seven.com.np/product' + '/medicine-brand/' + index + '"> <div class="row"><div class="col-md-9"><div class="search-span1">' + index + '</div></div>' +
+                        ' <div class="col-md-3"><div class="search-span2 text-right">' + value + ' Variants</div> </div></div> </a></li>';
+                    // console.log(product);
+                });
+
+
+                $.each(data['name'], function (index, value) {
+                    product = product + '   <li>' + '<a href="https://24seven.com.np/generic-name' + '/' + value['name'] + '"> <div class="row"><div class="col-md-8"><div class="search-span1">' + value['name'] + '</div></div>' +
+                        '</a></li>';
+
+                    // console.log(product);
+                });
+
+                document.getElementById("livesearch").innerHTML = product;
+            }
+        });
+        if (detail == null) {
+            searchBox.css('display', 'none');
+        }
+
+    }
+
+    $('#main-search').focusout(function () {
+        var searchBox = $('#searchBox');
+        setTimeout(function () {
+            searchBox.css('display', 'none');
+        }, 300);
+    });
+    $('#main-search').focusin(function () {
+        showResult();
+    });
+
+    $('.dropdown-item').click(function () {
+        $.ajax({
+            url: 'https://24seven.com.np/get-notification',
+            type: 'POST',
+            data: {
+                '_token': '',
+                'id': $(this).data('id')
+            },
+            success: function (data) {
+                if (data != 'Error') {
+                    console.log(data)
+                    $('#notification-text').text(data);
+                }
+            }
+        });
+        $('#notification').modal('show');
+    })
+
+</script>
+
+<script defer>
+    function validateEmail(email) {
+        var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        return re.test(email);
+    }
+
+    $(document).ready(function () {
+        $("#submite").click(function () {
+            var email = $("#oneemail").val();
+            if (email === "") {
+                $('#alertmessage').css('display', 'inline-block');
+                $('#alertmessage').text('Empty Email').fadeOut(4000);
+            } else {
+                var valid_email = validateEmail(email);
+                if (valid_email === false) {
+                    $('#alertmessage').css('display', 'inline-block');
+                    $('#alertmessage').text('Invalid Email').fadeOut(4000);
+                }
+                if (valid_email === true) {
+                    var token = '';
+                    $.ajax({
+                        type: 'post',
+                        url: 'https://24seven.com.np/emailsubscribe',
+                        data: {
+                            '_token': token,
+                            'email': email
+                        },
+                        success: function (data) {
+                            $('.subscribe-input').css('display', 'none');
+                            $('.subscription-result').css('display', 'block');
+                            $('.subscription-result').text(data[1]);
+                        }
+                    })
+                }
+            }
+
+        });
+    });
+
+    $("div#general_prescription_images").dropzone({
+        url: "https://24seven.com.np/general-dropzone-prescription",
+        params: {
+            '_token': ''
+        },
+        maxFiles: 10,
+        addRemoveLinks: true,
+        init: function () {
+            this.on("success", function (file, response) {
+                $('.dz-remove').attr('data-input', response);
+                $('#general_prescription').append('<input type="hidden" id="prescriptions" name="prescriptions[]" multiple  value="' + response + '">')
+            })
+        },
+        removedfile: function (file) {
+            filevalue = file._removeLink.dataset.input;
+            $('input[value="' + filevalue + '"]').remove();
+
+
+            var _ref;
+            return (_ref = file.previewElement) != null ? _ref.parentNode.removeChild(file.previewElement) : void 0;
+        }
+
+    });
+</script>
+
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script type="text/javascript" src="https://24seven.com.np/js/lazysize.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('.medicine-slider').slick({
+            infinite: true,
+            slidesToShow: 7,
+            slidesToScroll: 3,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 3,
+                        infinite: true,
+                        dots: true
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 2
+                    }
+                }
+            ]
+        });
+    });
+</script>
+
+
+</body>
+</html>

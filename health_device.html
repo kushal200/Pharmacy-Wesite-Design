@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Hamro Pharmacy | Best Online Medicine in Nepal|</title>
+
+    <link rel="stylesheet" href="frontend/css/bootstrap.min.css">
+    <link rel="stylesheet" href="frontend/css/jquery-ui.min.css">
+    <link  rel="stylesheet" href="frontend/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="frontend/css/animate.css">
+    <link rel="stylesheet" href="frontend/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="frontend/css/ionicons.min.css">
+    <link rel="stylesheet" href="frontend/css/stylesc8c4.css?v=1.3.1">
+    <link rel="stylesheet" href="frontend/css/dropzone.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Montserrat:wght@400;500;600;700&display=swap" >
+    <link rel="stylesheet" type="text/css" href="frontend/css/slick/slick.css" />
+    <link rel="stylesheet" type="text/css" href="frontend/css/slick/slick-theme.css" />
+    <link rel="stylesheet" type="text/css" href="css/prescriptiondropzone.css" />
+    <link rel="stylesheet" href="./frontend/css/custom.css">
+    <link rel="stylesheet" href="./frontend/css/index2.css">
+</head>
+<body>
+    <header class="" id="mainheader">
+        <div class="container top-header">
+
+            <div class="row">
+                <div class="col-lg-1 col-sm-2 col-2">
+                    <div class="logo-div">
+                        <a href="index.html"><img src="frontend/images/Hamro pharmacy logo.JPG" alt="24-7 main header logo"></a>
+                    </div>
+                </div>
+                <div class="col-lg-11 col-sm-10 col-10" style="padding: 0;">
+                    <nav class="navbar navbar-expand-sm navbar-dark row">
+                        <div class="col-xl-6 col-lg-6 col-sm-6 col-7">
+                            <form class="navbar-form navbar-left search-form" method="get" autocomplete="off">
+                                <div class="input-group">
+                                    <input type="text" class="form-control" placeholder="Search Medicine"
+                                        onkeyup="showResult()" name="product_details" id="main-search"
+                                        autocomplete="off">
+                                    <div class="search-box" id="searchBox" style="display: none;">
+                                        <ul class="search-box-ul" id="livesearch">
+                                        </ul>
+                                    </div>
+                                    <div class="input-group-btn">
+                                        <button class="btn btn-default top-header-search-btn "
+                                            style="background-color:#6c65ce !important;color:#fff;" type="submit">
+                                            <i class="fas fa-search"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 d-none d-sm-none d-md-none d-lg-block">
+                            <div class="right-quick-message">
+                                <a href="upload_prescription.html"><button type="button" class="transparent_btn_green d-block w-100" data-toggle="modal"
+                                    data-target="#presciption_upload" style="border: none;">
+                                    Upload
+                                </button></a>
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-3  col-4 d-none d-sm-none d-md-none d-lg-block">
+                            <div class="login-signup-div">
+                                <a href="log_in.html" class="transparent_btn_green">Login</a>
+                                <a href="register.html" class="transparent_btn_green">Sign Up</a>
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-sm-4 col-5">
+                            <div class="cart-div">
+                                <a href="cart.html">
+                                    <span>
+                                        <i class="fa fa-circle"></i>
+                                        <i class="fas fa-user"></i>
+                                        <!-- <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i> -->
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="cart-div">
+                                <a href="cart.html">
+                                    <span class="fa-stack fa-1x has-badge cart-count" data-count="0">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- navigation row starts  -->
+        <div class="row">
+            <div class="menu-container">
+                <div class="col-lg-12">
+                    <div class="nav-menu-top">
+                        <ul class="nav-menu-top-ul" id="myTopnav">
+                            <div class="inner-mobile-menu">
+                                <div class="login-signup-div">
+                                    <a href="#" class="transparent_btn_green">Login</a>
+                                    <a href="sign_up.html" class="transparent_btn_green">Sign Up</a>
+                                </div>
+                                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                                    <i class="fa fa-bars"></i>
+                                </a>
+                            </div>
+                            <li class="nav-menu-category drop-down-show">
+                                <div class="category-name">
+                                    <a href="index.html">
+                                        <span>Home</span>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="nav-menu-category drop-down-show">
+                                <div class="category-name">
+                                    <a href="covid-19.html">
+                                        <span>Covid-19 Prevention</span>
+                                    </a>
+                                </div>
+                               
+                            </li>
+                            
+                            <li class="nav-menu-category drop-down-show">
+                                <div class="category-name">
+                                    <a href="medicine.html">
+                                        <span>Medicines</span>
+                                    </a>
+                                </div>
+                            </li>
+
+                            <!-- <li class="nav-menu-category drop-down-show">
+                                <div class="category-name">
+                                    <a href="women_product.html">
+                                        <span>Womens Products</span>
+                                    </a>
+                                </div>
+                            </li> -->
+                            <li class="nav-menu-category drop-down-show">
+                                <div class="category-name">
+                                    <a href="health_device.html">
+                                        <span>Health Devices</span>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="nav-menu-category drop-down-show">
+                                <div class="category-name">
+                                    <a href="contact-us.html">
+                                        <span>Contact Us</span>
+                                    </a>
+                                </div>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- navigation row ends  -->
+    </header>
+
+    <!-- First Row -->
+    <section class="medicine-block has-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-8">
+                    <div class="featured-title">
+                        <h4 class="">Health Devices</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="white-background">
+            <div class="container">
+                <div class="slider-container">
+                    <div class="slick">
+                        <div class="medicine-slider">
+                            <div data-index="1" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="1" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link"
+                                                target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="mask 1"
+                                                            src="frontend/images/covid-19/mask/mask 1.jpg"
+                                                            data-src=""
+                                                            title="FISH OIL 1000mg OMEGA 3"
+                                                            class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 1 </div>
+
+                                                <div class="product-strip-info">
+                                                </div>
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div>
+                                                            <span class="home-mrp">MRP</span><span
+                                                                class="price-strike">Rs.
+                                                                140</span><span class="discount-home">23% off</span>
+                                                        </div>
+                                                        <div class="selling-price">
+                                                            Rs. 70</div>
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="2" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="2" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="mask 2"
+                                                            src="frontend/images/covid-19/mask/mask 2.jpg"
+                                                            data-src=""
+                                                            title="Tab. Triad-10mg" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 2 </div>
+
+                                                <div class="product-strip-info">
+                                                    Kit of 6 Products
+                                                </div>
+
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div>
+                                                            <span class="home-mrp">MRP</span><span
+                                                                class="price-strike">Rs.
+                                                                550</span><span class="discount-home">2% off</span>
+                                                        </div>
+                                                        <div class="selling-price">
+                                                            Rs. 537</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="3" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="3" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt=" Mask 3"
+                                                            src="frontend/images/covid-19/mask/mask 3.jpg"
+                                                            data-src=""
+                                                            title="Tab. Detry-10mg" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 3<i class="fas fa-prescription"></i> </div>
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div>
+                                                            <span class="home-mrp">MRP</span><span
+                                                                class="price-strike">Rs.
+                                                                3999</span><span class="discount-home">64% off</span>
+                                                        </div>
+                                                        <div class="selling-price">
+                                                            Rs. 1459</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="4" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="4" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="Mask 4"
+                                                            src="frontend/images/covid-19/mask/mask 4.jpg"
+                                                            data-src=""
+                                                            title="Tab. Tazloc-80 mg" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 4</div>
+
+                                                <div class="product-strip-info">
+                                                    packet of 1 mask
+                                                </div>
+
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div class="selling-price">
+                                                            Rs. 168.4</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="5" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="5" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="Mask 5"
+                                                            src="frontend/images/covid-19/mask/mask 5.jpg"
+                                                            data-src=""
+                                                            title="Tab. Losap-50mg" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 5</div>
+
+                                                <div class="product-strip-info">
+                                                    box of 10 masks
+                                                </div>
+
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div class="selling-price">
+                                                            Rs. 427</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="6" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="6" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="Mask 6"
+                                                            src="frontend/images/covid-19/mask/mask 6.png"
+                                                            title="" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 6 </div>
+
+                                                <div class="product-strip-info">
+                                                    strip
+                                                    of 20 tablets
+                                                </div>
+
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div class="selling-price">
+                                                            Rs. 220</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="medicine-block has-padding">
+        <div class="white-background">
+            <div class="container">
+                <div class="slider-container">
+                    <div class="slick">
+                        <div class="medicine-slider">
+                            <div data-index="1" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="1" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link"
+                                                target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="mask 1"
+                                                            src="frontend/images/covid-19/mask/mask 1.jpg"
+                                                            data-src=""
+                                                            title="FISH OIL 1000mg OMEGA 3"
+                                                            class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 1 </div>
+
+                                                <div class="product-strip-info">
+                                                </div>
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div>
+                                                            <span class="home-mrp">MRP</span><span
+                                                                class="price-strike">Rs.
+                                                                140</span><span class="discount-home">23% off</span>
+                                                        </div>
+                                                        <div class="selling-price">
+                                                            Rs. 70</div>
+                                                    </div>
+
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="2" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="2" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="mask 2"
+                                                            src="frontend/images/covid-19/mask/mask 2.jpg"
+                                                            data-src=""
+                                                            title="Tab. Triad-10mg" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 2 </div>
+
+                                                <div class="product-strip-info">
+                                                    Kit of 6 Products
+                                                </div>
+
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div>
+                                                            <span class="home-mrp">MRP</span><span
+                                                                class="price-strike">Rs.
+                                                                550</span><span class="discount-home">2% off</span>
+                                                        </div>
+                                                        <div class="selling-price">
+                                                            Rs. 537</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="3" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="3" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt=" Mask 3"
+                                                            src="frontend/images/covid-19/mask/mask 3.jpg"
+                                                            data-src=""
+                                                            title="Tab. Detry-10mg" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 3<i class="fas fa-prescription"></i> </div>
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div>
+                                                            <span class="home-mrp">MRP</span><span
+                                                                class="price-strike">Rs.
+                                                                3999</span><span class="discount-home">64% off</span>
+                                                        </div>
+                                                        <div class="selling-price">
+                                                            Rs. 1459</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="4" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="4" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="Mask 4"
+                                                            src="frontend/images/covid-19/mask/mask 4.jpg"
+                                                            data-src=""
+                                                            title="Tab. Tazloc-80 mg" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 4</div>
+
+                                                <div class="product-strip-info">
+                                                    packet of 1 mask
+                                                </div>
+
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div class="selling-price">
+                                                            Rs. 168.4</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="5" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="5" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="Mask 5"
+                                                            src="frontend/images/covid-19/mask/mask 5.jpg"
+                                                            data-src=""
+                                                            title="Tab. Losap-50mg" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 5</div>
+
+                                                <div class="product-strip-info">
+                                                    box of 10 masks
+                                                </div>
+
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div class="selling-price">
+                                                            Rs. 427</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-index="6" class="slick-slide slick-active slick-current" tabindex="-1"
+                                aria-hidden="false" style="outline:none;width:8.333333333333334%">
+                                <div>
+                                    <div data-index="6" style="width:100%;display:inline-block" tabindex="-1">
+                                        <div class="product-container">
+                                            <a href="covid-19.html" class="product-link" target="_blank">
+                                                <div class="home-image-holder">
+                                                    <div>
+                                                        <img alt="Mask 6"
+                                                            src="frontend/images/covid-19/mask/mask 6.png"
+                                                            title="" class="lazyload homepage-image">
+                                                    </div>
+                                                </div>
+                                                <div class="custom-margin-home"></div>
+                                                <div class="product-title-home">Mask 6 </div>
+
+                                                <div class="product-strip-info">
+                                                    strip
+                                                    of 20 tablets
+                                                </div>
+
+
+                                                <div class="homepage-price-conatiner">
+                                                    <div>
+                                                        <div class="selling-price">
+                                                            Rs. 220</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Footer Section Starts-->
+
+    <section class="footer-section">
+        <div class="footer-top-div">
+            <div class="container">
+                <div class="row has-payment align-items-center">
+                    <div class="col-sm-4 offset-sm-4">
+                        <p class="text-center"><strong>You can pay using :</strong></p>
+                        <ul class="accept-img">
+                            <li>
+                                <img src="./frontend/images/payment/Khalti_Digital_Wallet_Logo.png" alt="">
+                            </li>
+                            <li>
+                                <img src="./frontend/images/Payment/esewa.png" alt="">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <br>
+                <hr>
+            </div>
+        </div>
+    </section>
+    
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center text-md-left">
+                    <p>@ <a href="index.html">2021 Hamro Pharmacy</a>! All rights
+                        reserved.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="frontend/js/jquery.min.js"></script>
+    <script src="frontend/js/popper.min.js"></script>
+    <script src="frontend/js/bootstrap.min.js"></script>
+
+    <script src="frontend/js/jquery-ui.min.js" defer></script>
+    <script src="frontend/js/megamenu.js" defer></script>
+    <script src="frontend/js/dropzone.js"></script>
+    <script src="frontend/js/modernizr-2.8.3.min.js" defer></script>
+    <script src="frontend/js/owl.carousel.min.js" defer></script>
+    <script src="frontend/js/custom.js" defer></script>
+
+
+    <script type="text/javascript" defer>
+        $(document).ready(function () {
+            //If your <ul> has the id "glasscase"
+            $('#glasscase').glassCase({ 'thumbsPosition': 'bottom', 'widthDisplay': 560 });
+            $('#metroContact').modal();
+
+        });
+    </script>
+    <script defer>
+        $(".jacket-head i").click(function () {
+            $('.jacket-head').fadeOut();
+        })
+        $('.cart').click(function () {
+            $('#reload-page').val(0);
+            $('#quantity-count').val(1)
+            $('.quantity-display').text(1)
+            $('#cartquantity').modal();
+            let product_name = $(this).data('productname');
+            let id = $(this).val();
+            $('#cart-product-name').text(product_name);
+            $('#cart-product-id').val(id);
+            if ($(this).hasClass('cart-page')) {
+                $('#reload-page').val(1);
+            }
+
+        });
+
+        $('.deduction').click(function () {
+            $this = $(this);
+            let current_qty = parseInt($('#quantity-count').val());
+            if (current_qty > 1) {
+                let new_quantity = current_qty - 1;
+                $this.next().text(new_quantity);
+                $this.next().next().val(new_quantity);
+            }
+        });
+
+        $('.addition').click(function () {
+            $this = $(this);
+            let current_qty = parseInt($('#quantity-count').val());
+            let new_quantity = current_qty + 1;
+            $this.prev().prev().text(new_quantity);
+            $this.prev().val(new_quantity);
+        });
+
+        $('.confirm-cart').click(function () {
+            let product_id = $('#cart-product-id').val();
+            let quantity = $('#quantity-count').val();
+            var token = 'NVcMZKgQkN8Uv0nEu5wueArkHdw6iYIRzg80qRwm';
+            $.ajax({
+                url: 'https://24seven.com.np/cart-item-add' + '/' + product_id,
+                type: 'post',
+                data: {
+                    '_token': token,
+                    'qty': quantity
+                },
+                success: function (data) {
+                    $('.cart-count').attr('data-count', data[2]['count']);
+                    if ($('#reload-page').val() == 1) {
+                        window.location.reload();
+                    }
+                }
+            });
+            $('#cartquantity').modal('hide');
+
+        });
+
+        $('.remove').click(function () {
+            var id = $(this).val();
+            var token = 'NVcMZKgQkN8Uv0nEu5wueArkHdw6iYIRzg80qRwm';
+            $.ajax({
+                url: 'https://24seven.com.np/cart-item-remove' + '/' + id,
+                type: 'post',
+                data: {
+                    '_token': token,
+                },
+                success: function (data) {
+                    $('.remove' + data['id']).css('display', 'none');
+                    $('.cart' + data['id']).css('display', 'block');
+
+                    $('#order_display' + data['id']).remove();
+                    $('.cart-count').attr('data-count', data['count']);
+                }
+
+            })
+        });
+
+        function showResult() {
+            var detail = $('#main-search').val();
+            var livesearch = $('#livesearch');
+            var searchBox = $('#searchBox');
+            var product = '';
+            document.getElementById("livesearch").innerHTML = product;
+            $.ajax({
+                url: 'https://24seven.com.np/product-search-json' + '/' + detail,
+                type: 'GET',
+                success: function (data) {
+                    // console.log(data);
+                    searchBox.css('display', 'block');
+                    livesearch.css('border', '1px solid #A5ACB2');
+
+                    $.each(data['products'], function (index, value) {
+                        let discount_info = "";
+                        if (value['discount'] != 0 && value['discount'] != null) {
+                            discount_info = '<div class="discount-info">\n' +
+                                '        <span class="single-overline">Rs ' + value['product_price'] + '\n' +
+                                '        </span>\n' +
+                                '          <span>' + value['discount'] + '% Off</span>\n' +
+                                '            </div>';
+                        }
+                        if (value['added_to_cart'] == 0) {
+                            product = product + '   <li>' + '<a href="https://24seven.com.np/product' + '/' + value['slug'] + '"> <div class="row"><div class="col-md-8"><div class="search-span1">' + value['product_name'] + '</div></div>' +
+                                ' <div class="col-md-4"><div class="search-span2 text-right"><span>RS. ' + (value['product_price'] - value['product_price'] * (value['discount'] / 100)).toFixed(2) + '</span></div>' + discount_info + ' </div></div> </a></li>';
+                        } else {
+                            product = product + '   <li>' + '<a href="https://24seven.com.np/product' + '/' + value['slug'] + '"> <div class="row"><div class="col-md-8"><div class="search-span1">' + value['product_name'] + '</div></div>' +
+                                ' <div class="col-md-4"><div class="search-span2 text-right"><span>RS. ' + (value['product_price'] - value['product_price'] * (value['discount'] / 100)).toFixed(2) + '</span></div>' + discount_info + ' </div></div> </a></li>';
+
+                        }
+
+                        // console.log(product);
+                    });
+
+                    $.each(data['generic'], function (index, value) {
+                        //product = product + '<a href="https://24seven.com.np/product' + '/' + value['slug'] + '"><div>' + value['product_name'] + '</div></a>';
+                        product = product + '   <li>' + '<a href="https://24seven.com.np/product' + '/medicine-brand/' + index + '"> <div class="row"><div class="col-md-9"><div class="search-span1">' + index + '</div></div>' +
+                            ' <div class="col-md-3"><div class="search-span2 text-right">' + value + ' Variants</div> </div></div> </a></li>';
+                        // console.log(product);
+                    });
+
+
+                    $.each(data['name'], function (index, value) {
+                        product = product + '   <li>' + '<a href="https://24seven.com.np/generic-name' + '/' + value['name'] + '"> <div class="row"><div class="col-md-8"><div class="search-span1">' + value['name'] + '</div></div>' +
+                            '</a></li>';
+
+                        // console.log(product);
+                    });
+
+                    document.getElementById("livesearch").innerHTML = product;
+                }
+            });
+            if (detail == null) {
+                searchBox.css('display', 'none');
+            }
+
+        }
+
+        $('#main-search').focusout(function () {
+            var searchBox = $('#searchBox');
+            setTimeout(function () {
+                searchBox.css('display', 'none');
+            }, 300);
+        });
+        $('#main-search').focusin(function () {
+            showResult();
+        });
+
+        $('.dropdown-item').click(function () {
+            $.ajax({
+                url: 'https://24seven.com.np/get-notification',
+                type: 'POST',
+                data: {
+                    '_token': 'NVcMZKgQkN8Uv0nEu5wueArkHdw6iYIRzg80qRwm',
+                    'id': $(this).data('id')
+                },
+                success: function (data) {
+                    if (data != 'Error') {
+                        console.log(data)
+                        $('#notification-text').text(data);
+                    }
+                }
+            });
+            $('#notification').modal('show');
+        })
+
+    </script>
+
+    <script defer>
+        function validateEmail(email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+
+        $(document).ready(function () {
+            $("#submite").click(function () {
+                var email = $("#oneemail").val();
+                if (email === "") {
+                    $('#alertmessage').css('display', 'inline-block');
+                    $('#alertmessage').text('Empty Email').fadeOut(4000);
+                } else {
+                    var valid_email = validateEmail(email);
+                    if (valid_email === false) {
+                        $('#alertmessage').css('display', 'inline-block');
+                        $('#alertmessage').text('Invalid Email').fadeOut(4000);
+                    }
+                    if (valid_email === true) {
+                        var token = 'NVcMZKgQkN8Uv0nEu5wueArkHdw6iYIRzg80qRwm';
+                        $.ajax({
+                            type: 'post',
+                            url: 'https://24seven.com.np/emailsubscribe',
+                            data: {
+                                '_token': token,
+                                'email': email
+                            },
+                            success: function (data) {
+                                $('.subscribe-input').css('display', 'none');
+                                $('.subscription-result').css('display', 'block');
+                                $('.subscription-result').text(data[1]);
+                            }
+                        })
+                    }
+                }
+
+            });
+        });
+
+        $("div#general_prescription_images").dropzone({
+            url: "https://24seven.com.np/general-dropzone-prescription",
+            params: {
+                '_token': 'NVcMZKgQkN8Uv0nEu5wueArkHdw6iYIRzg80qRwm'
+            },
+            maxFiles: 10,
+            addRemoveLinks: true,
+            init: function () {
+                this.on("success", function (file, response) {
+                    $('.dz-remove').attr('data-input', response);
+                    $('#general_prescription').append('<input type="hidden" id="prescriptions" name="prescriptions[]" multiple  value="' + response + '">')
+                })
+            },
+            removedfile: function (file) {
+                filevalue = file._removeLink.dataset.input;
+                $('input[value="' + filevalue + '"]').remove();
+
+
+                var _ref;
+                return (_ref = file.previewElement) != null ? _ref.parentNode.removeChild(file.previewElement) : void 0;
+            }
+
+        });
+    </script>
+
+
+    <script type="text/javascript" src="frontend/js/slick.min.js"></script>
+    <script type="text/javascript" src="js/lazysize.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('.medicine-slider').slick({
+                infinite: true,
+                slidesToShow: 6,
+                slidesToScroll: 3,
+                arrows: false,
+                dots: true,
+                // prevArrow:"<",
+                // nextArrow:">",
+                responsive: [
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 3,
+                            infinite: true,
+                            dots: true
+                        }
+                    },
+                    {
+                        breakpoint: 600,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 2
+                        }
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 2
+                        }
+                    }
+                ]
+            });
+        });
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://24seven.com.np/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://24seven.com.np/product-search?product_details={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://24seven.com.np/",
+      "logo": "https://24seven.com.np/frontend/images/logo.png"
+    }
+    </script>
+
+</body>
+</html>
